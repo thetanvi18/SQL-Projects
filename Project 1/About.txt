@@ -1,0 +1,4 @@
+-This is my first SQL project where queries of basic, medium & advanced level have been performed.
+-There are 4 datasets related to pizza sales.
+-Use of groupby, joins, rank.
+-The document contains the screenshots of the queries & output of SQL workbench.

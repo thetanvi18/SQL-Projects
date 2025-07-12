@@ -1,3 +1,0 @@
--This is my first SQL project which contains queries & output of SQL workbench.
--There are 4 datasets related to pizza sales.
--Use of groupby, joins, rank.
